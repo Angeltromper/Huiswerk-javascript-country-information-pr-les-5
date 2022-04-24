@@ -1,0 +1,35 @@
+
+.error-message {
+    color: red;
+}
+
+
+ul {
+    list-style-type: none;
+}
+.flagImages{
+    height: 30px;
+    width: 45px;
+}
+
+.orange{
+    color:orange;
+}
+.blue{
+    color: blue;
+}
+.red{
+    color: red;
+}
+.green{
+    color: green;
+}
+.yellow{
+    color: yellow;
+}
+.purple {
+    color: purple;
+}
+.gray {
+    color: gray;
+}
