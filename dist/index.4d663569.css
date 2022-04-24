@@ -1,0 +1,42 @@
+.error-message {
+  color: red;
+}
+
+ul {
+  list-style-type: none;
+}
+
+.flagImages {
+  height: 30px;
+  width: 45px;
+}
+
+.orange {
+  color: orange;
+}
+
+.blue {
+  color: #00f;
+}
+
+.red {
+  color: red;
+}
+
+.green {
+  color: green;
+}
+
+.yellow {
+  color: #ff0;
+}
+
+.purple {
+  color: purple;
+}
+
+.gray {
+  color: gray;
+}
+
+/*# sourceMappingURL=index.4d663569.css.map */
